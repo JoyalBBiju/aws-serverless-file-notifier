@@ -196,23 +196,7 @@ File: test-file.txt
 
 ## Screenshots
 
-Add screenshots here:
-
-### S3 Bucket
-
-![S3 Bucket](screenshots/S3_buckets.png)
-
-### Lambda Overview
-
-![Lambda](screenshots/lambda.png)
-
-### SNS Topic
-
-![SNS](screenshots/SNS.png)
-
-### Email Notification
-
-![Email](screenshots/SNS_alert.jpg)
+Screenshots are uploaded 
 
 ---
 
