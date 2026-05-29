@@ -200,19 +200,19 @@ Add screenshots here:
 
 ### S3 Bucket
 
-![S3 Bucket](screenshots/s3-bucket.png)
+![S3 Bucket](screenshots/s3_bucket.png)
 
 ### Lambda Overview
 
-![Lambda](screenshots/lambda-overview.png)
+![Lambda](screenshots/lambda.png)
 
 ### SNS Topic
 
-![SNS](screenshots/sns-topic.png)
+![SNS](screenshots/sns.png)
 
 ### Email Notification
 
-![Email](screenshots/email-notification.png)
+![Email](screenshots/SNS_alert.png)
 
 ---
 
