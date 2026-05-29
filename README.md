@@ -200,7 +200,7 @@ Add screenshots here:
 
 ### S3 Bucket
 
-![S3 Bucket](screenshots/s3_bucket.png)
+![S3 Bucket](screenshots/S3_buckets.png)
 
 ### Lambda Overview
 
@@ -208,11 +208,11 @@ Add screenshots here:
 
 ### SNS Topic
 
-![SNS](screenshots/sns.png)
+![SNS](screenshots/SNS.png)
 
 ### Email Notification
 
-![Email](screenshots/SNS_alert.png)
+![Email](screenshots/SNS_alert.jpg)
 
 ---
 
